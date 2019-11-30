@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://firecoder:$Fire-coder;@contactskeeper-jxf1g.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://firecoder:$Fire-coder;@contactskeeper-jxf1g.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "I love cakes"
 }
